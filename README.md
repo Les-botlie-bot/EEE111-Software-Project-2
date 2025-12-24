@@ -45,7 +45,9 @@ It uses standard Python libraries only (no external dependencies) and runs direc
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/Les-botlie-bot/EEE111-Software-Project-2.git
-2. Download all the files in the repository or the folder submitted in UVLE, making sure all the files are in the same folder / directory
+2. Download all the files in the repository or the folder submitted in UVLE
 
-3. run the python main.py file o VS code and follow the on-screen game instructions
+3. Extract the Zipped file if necessary, make sure that all of the python files are in the same folder / directory
+
+4. run the python main.py file on VS code and follow the on-screen game instructions
 
