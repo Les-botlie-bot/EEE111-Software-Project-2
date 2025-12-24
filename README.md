@@ -2,8 +2,8 @@
 
 ### 🃏 What is Blackjack?
 
-**Blackjack** is a Python-based implementation of the classic casino card game “Twenty-One.”  
-This project was developed as part of my **Software Project 2** course, following strict modular design and OOP principles.  
+**Blackjack** is a Python-based implementation of the classic casino card game   
+This project was developed as part of my **EEE 111** course, following strict modular design and OOP principles.  
 It includes features such as multi-player gameplay, betting logic, and a fully automated dealer system — all through a clean **command-line interface (CLI)**.
 
 ---
@@ -40,10 +40,12 @@ It uses standard Python libraries only (no external dependencies) and runs direc
 
 ---
 
-## 🧠 **How to Run**
+## 🧠 **How to Run** 
 
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/<your-username>/<your-repo-name>.git
    cd <your-repo-name>
+2. Download all the files in the repository or the folder submitted in UVLE, making sure all the files are in the same folder / directory
+      run the python main.py file and follow the on-screen game instructions
 
